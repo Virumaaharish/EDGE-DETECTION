@@ -5,7 +5,7 @@ To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 ## Software Required:
 Anaconda - Python 3.7
 
-## Algorithm:q
+## Algorithm:
 ### Step1:
 Import all the necessary modules for the program.
 
@@ -24,7 +24,8 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 
 ### Program :
 ```
-
+Name : VIRUMAA HARISH M
+Reg No: 212223230246
 import cv2
 import matplotlib.pyplot as plt
 
@@ -112,14 +113,12 @@ plt.show()
 ### SOBEL EDGE DETECTOR
 </br>
 </br>
-<img width="705" height="287" alt="image" src="https://github.com/user-attachments/assets/b0029ed8-d062-4231-bd45-731f00549e22" />
+<img width="799" height="415" alt="image" src="https://github.com/user-attachments/assets/a90debc3-b85e-4c5d-826f-8dfd94b559c7" />
 
 
-<img width="712" height="288" alt="image" src="https://github.com/user-attachments/assets/57307b52-2e34-4242-a09a-3e56fd9f181e" />
+<img width="842" height="417" alt="image" src="https://github.com/user-attachments/assets/7a20e2da-15e8-4769-81c6-2f27b6b07644" />
 
-
-<img width="708" height="282" alt="image" src="https://github.com/user-attachments/assets/ae0d7bcd-88f7-4136-91ce-f6cb5e967d31" />
-
+<img width="810" height="419" alt="image" src="https://github.com/user-attachments/assets/28a0fc5e-32b4-4f4e-9b03-e7fb77495c55" />
 
 </br>
 </br>
@@ -127,8 +126,7 @@ plt.show()
 ### LAPLACIAN EDGE DETECTOR
 </br>
 </br>
-<img width="727" height="292" alt="image" src="https://github.com/user-attachments/assets/75e4d7c1-de43-4201-bfc5-732b9796096a" />
-
+<img width="792" height="419" alt="image" src="https://github.com/user-attachments/assets/3823b046-7159-4ea1-9312-c9088a9a496d" />
 
 </br>
 </br>
@@ -137,7 +135,7 @@ plt.show()
 ### CANNY EDGE DETECTOR
 </br>
 </br>
-<img width="703" height="303" alt="image" src="https://github.com/user-attachments/assets/d826b26d-e327-4642-a0fe-fdc89f4cbab9" />
+<img width="791" height="412" alt="image" src="https://github.com/user-attachments/assets/70723d46-2662-4d4a-9d4d-bcf059724aae" />
 
 </br>
 </br>
