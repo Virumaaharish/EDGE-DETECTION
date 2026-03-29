@@ -1,4 +1,6 @@
 # EDGE-DETECTION
+# NAME : VIRUMAA HARISH M
+# REG NO : 212223230246
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
